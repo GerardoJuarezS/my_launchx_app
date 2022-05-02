@@ -1,0 +1,23 @@
+{
+  "name": "my_launchx_app",
+  "version": "1.0.0",
+  "description": "proyecto 1 del curso backend de LaunchX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerardoJuarezS/my_launchx_app.git"
+  },
+  "keywords": [
+    "Javascrip",
+    "Node"
+  ],
+  "author": "Gerardo Juarez Salmoran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GerardoJuarezS/my_launchx_app/issues"
+  },
+  "homepage": "https://github.com/GerardoJuarezS/my_launchx_app#readme"
+}
